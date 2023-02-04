@@ -1,0 +1,208 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)) ,url(../images/cn.jpg);
+    /* background-color: gray; */
+    /* background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)),url(../image/reg3.jpg);
+    background-size: cover; */
+
+}
+.header{
+    margin-top: 30px;
+}
+.nav{
+    text-align: right;
+    margin-right: 10px;
+}
+.nav a {
+    margin: 5px;
+   text-decoration: none;
+   font-size: 28px;
+   font-family: 'Times New Roman', Times, serif;
+   color: white;
+   margin-left: 20px;
+   
+}
+.nav a:hover{
+    color: red;
+    padding: 5px;
+    /* border-radius : 5px; */
+
+}
+.container{
+    background-color: rgb(226, 208, 208);
+    /* margin: 40px; */
+    width: 600px;
+    height: 755px;
+    margin-left: 650px;
+    margin-top: 40px;
+    margin-bottom: 400px;
+}
+.container h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img , .img1 , .img2{
+    float: left;
+}
+.form{
+    
+    margin: 10px;
+}
+.form label{
+    font-size: 20px;
+    
+   
+   
+}
+.form input{
+    width: 560px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+.all{
+    display: flex;
+    
+   
+}
+.all label{
+    display: block;
+    margin: 10px;
+    margin-top: 0;
+}
+.address input{
+    width: 290px;
+    margin: 1px;
+    margin-top: 0;
+}
+.address2 input{
+    width: 255px;
+    margin-top: 0;
+}
+.other{
+    display: flex;
+}
+.other label{
+    display: block;
+}
+.city input{
+    width: 300px;
+    margin: 3px;
+    margin-top: 0;
+}
+.state input{
+    width: 248px;
+    margin: 3px;
+    margin-top: 0;
+}
+.code{
+    display: flex;
+}
+.pin input{
+    width: 280px;
+}
+.zipcode input{
+    width: 260px;
+}
+/* .sel1{
+    display: flex;
+    
+    
+} */
+/* .sel1 label{
+    display: block;  
+} */
+
+.food select{
+    font-size: 20px;
+    width: 350px;
+    margin: 3px;
+    padding: 2px
+
+}
+.gallery select{
+    width: 280px;
+    font-size: 20px;
+    margin: 3px;
+    padding: 2px;
+}
+/* .sel2{
+    display: flex;
+} */
+/* .sel2 label{
+    display: block;
+} */
+.sweet select{
+    width: 400px;
+    font-size: 20px;
+    margin: 3px;
+    padding: 2px;
+}
+.drink select{
+    width: 280px;
+    font-size: 20px;
+    margin: 3px;
+    padding: 2px;
+}
+.btn{
+    margin-top: 18px;
+    /* margin-left: 190px; */
+    font-size: 20px;
+    width: 100%;
+    background-color: rgb(3, 3, 48);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+/* 
+.footer{
+    padding: 0px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    padding :0;
+    margin-bottom: 0;
+ }
+ .footer .column1, .column2, .column3{
+    float: left;
+    margin: 20px;
+}
+
+
+ .column1{
+    margin-left: 50px;
+}
+.column1 p{
+    font-size: 25px;
+    color: red;
+}
+.column2{
+    margin-left: 300px;
+}
+.column3{
+    margin-left: 300px;
+}
+.form2 label{
+  font-size: 20px;
+}
+.form2 input{
+    padding: 5px;
+    width: 350px;
+    color: black;
+}
+.button{
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 9px;
+    margin-left: 100px;
+    padding: 0px;
+}
+ */
+
+

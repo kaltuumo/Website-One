@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(224, 203, 203);
+
+}
+.container h3{
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container p{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container .pp span{
+    margin-top: 90px;
+    color: blue;
+}
+.container span{
+    color: red;
+}
+.card{
+    float: left;
+}
+.card{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 410px;
+    height: 300px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px 10px rgba(214, 168, 168, 0.1);
+}
+.card p{
+  
+    font-size: 30px;
+    margin-left: 90px;
+}
+.card img{
+    margin-top: 25px;
+    width: 370px;
+}
+.card img{
+    margin-left: 20px;
+}
+.card img:hover{
+    width: 350px;
+}
+.card1{
+    float: left;
+}
+.card1{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 565px;
+    height: 430px;
+    background-color: white;
+}
+.card1 img{
+    margin-left: 90px;
+}
+.card1 img:hover{
+    width: 270px;
+}
+.card1 .p0{
+    margin-top: 0px;
+    margin-right: 200px;
+    color: red;
+    font-size: 30px;
+}
+.card1 .p1{
+    margin-left: 200px;
+    color: rgb(24, 24, 56);
+    font-size: 30px;
+}
+.card2{
+    float: left;
+}
+.card1 .p2{
+    margin-left: 20px;
+    margin-top: 0;
+    font-size: 20px;
+}
+.card2{
+    margin-bottom: 20px;
+    background-color: white;
+    margin-left: 20px;
+    width: 428px;
+    height: 360px;
+    border-radius: 5px;
+}
+.card2 img{
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.card2 .button{
+    margin-top: 10px;
+    margin-left: 130px;
+    font-size: 25px;
+    background-color: rgb(29, 29, 56);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 200px;
+}
+.card3{
+    float: left;
+}
+.card3{
+    width: 425px;
+    height: 350px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+.card3 img{
+    margin-left: 20px;
+    margin-top: 15px;
+    width: 385px;
+}
+.card3 .btn{
+    margin-left: 110px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: rgb(16, 16, 105);
+    border-radius: 7px;
+    width: 200px;
+   
+}
+.card3 .btn:hover{
+    /* background-color: rgb(68, 13, 21); */
+    width: 195px;
+}

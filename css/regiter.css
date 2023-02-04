@@ -1,0 +1,72 @@
+body{
+    background-color: gray;
+}
+.header{
+    margin-top: 30px;
+}
+.nav{
+    text-align: right;
+    margin-right: 10px;
+}
+.nav a {
+    margin: 5px;
+   text-decoration: none;
+   font-size: 28px;
+   font-family: 'Times New Roman', Times, serif;
+   color: white;
+   margin-left: 20px;
+   
+}
+.nav a:hover{
+    color: red;
+    padding: 5px;
+    /* border-radius : 5px; */
+
+}
+.container{
+  
+    /* background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(../image/reg3.jpg);
+    background-size: cover;
+    background-position: center; */
+      background-color: white;
+    width: 500px;
+    height: 600px;
+    margin-left: 40%;
+    /* border-radius: 20px; */
+    margin-top: 70px;
+
+}
+.container h1{
+    text-align: center;
+    font-size: 40px;
+}
+.form{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 30px;
+}
+.form label{
+    margin: 10px;
+    font-size: 25px;
+    
+}
+.form .inp1{
+    width:35%;
+}
+.form .inp2{
+    width: 35%;
+}
+.form input{
+    padding: 10px;
+    font-size: 20px;
+    width: 80%;
+}
+.btn{
+    background-color: green;
+    /* margin: 40px; */
+    /* margin-right: 90px; */
+    margin-top: 40px;
+    width: 86%;
+    padding: 10px;
+    font-size: 20px;
+}
